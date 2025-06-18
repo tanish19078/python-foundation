@@ -1,22 +1,20 @@
-# python-foundation
-A beginner-friendly Python learning journey covering the fundamentals of programming.
-# Python Foundations 🚀
+# 🐍 Python Foundations
 
-Welcome to my beginner Python learning repository!  
-This is where I document my journey into the world of coding using Python.
+A beginner-friendly repository to track my journey learning Python from scratch — before starting college.
 
 ---
 
-## 📚 Topics Covered
+## 🚀 What I'm Learning
 
-- ✅ Day 1: Hello World, Python Setup  
-- ✅ Day 2: Variables, Input, Output  
-- ⏳ Day 3: Conditions & Logic  
-- ⏳ Day 4: Loops  
-- ⏳ Day 5: Functions & Lists  
-- ⏳ Day 6+: Mini Projects
+- ✅ Day 1: Print Statements & Setup
+- ⏳ Day 2: Variables and Input
+- ⏳ Day 3: Conditions
+- ⏳ Day 4: Loops
+- ⏳ Day 5: Functions
+- ⏳ Day 6+: Projects & Practice
 
 ---
 
 ## 📁 File Structure
+
 
