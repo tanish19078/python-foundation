@@ -27,17 +27,13 @@ I created this repository to track what I’m learning each day, share simple co
 ---
 
 ## 📁 File Structure
-
-
-python-foundation/
-├── Day 1 - Getting Started with Python.py
-├── Day 2 - Variables and Input.py
-├── Day 3 - Conditions.py
-├── Day 4 - Loops.py
-├── Day 5 - Functions.py
-├── Day 6 - Calculator.py
-└── README.md
-
+- Day 1 - Getting Started with Python.py  
+- Day 2 - Variables and Input.py  
+- Day 3 - Conditions.py  
+- Day 4 - Loops.py  
+- Day 5 - Functions.py  
+- Day 6 - Calculator.py  
+- README.md
 
 ---
 
